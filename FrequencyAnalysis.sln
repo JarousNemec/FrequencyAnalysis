@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyAnalysis", "FrequencyAnalysis\FrequencyAnalysis.csproj", "{A5FA2660-24EF-43AC-8C96-F9C02A928C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerTest", "AnalyzerTest\AnalyzerTest.csproj", "{E03B6980-F25F-47ED-B1AE-9C6C9B32DC5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A5FA2660-24EF-43AC-8C96-F9C02A928C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5FA2660-24EF-43AC-8C96-F9C02A928C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5FA2660-24EF-43AC-8C96-F9C02A928C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03B6980-F25F-47ED-B1AE-9C6C9B32DC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03B6980-F25F-47ED-B1AE-9C6C9B32DC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03B6980-F25F-47ED-B1AE-9C6C9B32DC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03B6980-F25F-47ED-B1AE-9C6C9B32DC5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
